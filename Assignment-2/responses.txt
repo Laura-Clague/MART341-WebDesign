@@ -1,3 +1,3 @@
-Apparently river dolphins exist. 
-Isnt that crazy?!
-The ones in the Amazon River are like a bubblegum pink color.
+Web directories are how we organize files into groups. Often called 'folders', directories, subdirectories, and files all nest into eachother to make a directory tree. Where files contain the content, directories separate the files into categories. 
+VCS are useful because it tracks changes to collections of information. If you make a mistake, you can identify that mistake through VCS.
+My favorite medium, based on the broader definition, is social media. I am a marketing major so social media as a marketing tool facinates me.
