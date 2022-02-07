@@ -1,3 +1,0 @@
-Both IP address and the DNS act as maps to different 'locations' on the internet. They both work in collaboration with each other. An IP address identifies any given computer/device and the DNS converts a series of letters (web address) to a series of numbers associated with IP address.
-A cookie is a bit of information saved by your web browser. Once you visit a website, those bits of information (the cookie) are recorded and used to recognize your device later on. Often they keep track of your activity on that website.
-Protocol, domain and path. Protocol states how a browser will communicate with a server. Domain is an string of identification on the internet. Path are instructions on how to navigate directories.
