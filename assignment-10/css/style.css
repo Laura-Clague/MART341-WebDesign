@@ -1,0 +1,55 @@
+body {
+  background-color: #bbdbc0;
+  font-family: Didot;
+  text-align: center;
+}
+
+div {
+  border: 5px solid #e38c70;
+  display: inline-block;
+}
+
+img {
+  border-radius: 50%;
+  border: 10px solid #248099;
+}
+
+.inspiration {
+  background-color: #f0ca79;
+}
+
+#title {
+  font-size: 40px;
+  background-color: #e38c70;
+  color: #bbdbc0;
+  margin: auto;
+  padding: 20px;
+
+}
+
+.palette{
+  background-color: white;
+}
+
+.dot {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot.one {
+  background-color: #f0ca79;
+}
+
+.dot.two {
+  background-color: #bbdbc0;
+}
+
+.dot.three {
+  background-color: #e38c70;
+}
+
+.dot.four {
+  background-color: #248099;
+}
