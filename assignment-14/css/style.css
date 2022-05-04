@@ -67,17 +67,22 @@ img {
 
 }
 
-.dot.two {
-  background-color: #bbdbc0;
-}
-
-.dot.three {
-  background-color: #e38c70;
+.dot-two {
+  background-color: #f0ca79;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
 }
 
 .dot.four {
   background-color: #248099;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  display: inline-block;
 }
+
 
 
 /* Menu */
